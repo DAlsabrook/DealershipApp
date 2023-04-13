@@ -16,6 +16,7 @@ namespace DealershipApp
         {
             InitializeComponent(); //bla
             Data();
+            //blabla
 
             //ComboBox Binding
             comboBoxBinding.DataSource = dealerships;
